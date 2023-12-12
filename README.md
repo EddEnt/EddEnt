@@ -13,9 +13,10 @@ Here are some ideas to get you started:
  🌱 I’m currently learning .NET & C#, React and JavaScript!
 
 ## Socials
-
-<a style="margin-left: 7px;"  target="_blank" href="https://www.linkedin.com/in/edward-entecott-a3507198/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+<div>
+  <a style="margin-left: 7px;"  target="_blank" href="https://www.linkedin.com/in/edward-entecott-a3507198/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)"></a>
+</div>
 
 ##Coding Skills
 
