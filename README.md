@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ## Coding Skills
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&
-<img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?">
+<!-- ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net& -->
+<img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 
