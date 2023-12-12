@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<!-- **EddEnt/EddEnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**EddEnt/EddEnt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br>
 ## Languages
 [![EddEnt's GitHub stats](https://github-readme-stats.vercel.app/api?username=EddEnt)](https://github.com/anuraghazra/github-readme-stats)
