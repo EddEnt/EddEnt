@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 <br>
 
 <img alt="VisualStudio Badge" src = "https://img.shields.io/badge/Visual_Studio-F6f7f8?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
+<img alt="VisualStudioCode Badge" src = "https://img.shields.io/badge/Visual_Studio_Code-F6f7f8?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078d7">
 
