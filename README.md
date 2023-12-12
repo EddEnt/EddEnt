@@ -1,4 +1,5 @@
-# Hi there 👋
+<div align="center">
+# Hello there, my name is Edward Entecott and I am a recent Graduate of George Brown College
 
 <br>
 
