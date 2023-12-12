@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 ## Coding Skills
 
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-<img alt="Python Badge" src="https://img.shields.io/badge/python-FFE873?style=for-the-badge&logo=python&logoColor=#FFE873">
+<img alt="Python Badge" src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=yellow">
 <img alt="Node.js Badge" src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=#3c873a">
+<img alt="Java Badge" src = 
 
 <img alt="HTML Badge" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3 Badge" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=#F0DB4F">
+
+<img alt="VisualStudio Badge" src = "https://img.shields.io/badge/Visual_Studio-F6f7f8?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
