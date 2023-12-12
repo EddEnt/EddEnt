@@ -10,5 +10,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning .NET & C#, React and JavaScript
+ 🌱 I’m currently learning .NET & C#, React and JavaScript
 
