@@ -24,16 +24,24 @@ Here are some ideas to get you started:
 <img alt="Node.js Badge" src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=#3c873a">
 <img alt="Java Badge" src ="https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=#white">
 
+<br>
+
 <img alt="HTML5 Badge" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3 Badge" src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="JavaScript Badge" src="https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=#F0DB4F">
 <img alt="React Badge" src="https://img.shields.io/badge/react-272727?style=for-the-badge&logo=react&logoColor=#61DAFB">
 <img alt="Blazor Badge" src="https://img.shields.io/badge/blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white">
 
+<br>
+
 <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-F6f7f8?style=for-the-badge&logo=mysql&logoColor=005C84">
 <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-F6f7f8?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 
+<br>
+
 <img alt="Git Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
+<br>
 
 <img alt="VisualStudio Badge" src = "https://img.shields.io/badge/Visual_Studio-F6f7f8?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
 
