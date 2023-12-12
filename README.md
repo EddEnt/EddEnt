@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
- 🌱 I’m currently learning .NET & C#, Blazor, React, and JavaScript!
+ 🌱 I’m currently learning C# & .NET, Blazor, React, and JavaScript!
 
 ## Socials
 <div>
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 ## Coding Skills
 
+<img alt="C# Badge" src="https://img.shields.io/badge/c%23-512BD4?style=for-the-badge&logo=Csharp&logoColor=white">
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
 <img alt="Python Badge" src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=yellow">
 <img alt="Node.js Badge" src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=#3c873a">
