@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-F6f7f8?style=for-the-badge&logo=mysql&logoColor=005C84">
 <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-F6f7f8?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 
+<img alt="Git Badge" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+
 
 <img alt="VisualStudio Badge" src = "https://img.shields.io/badge/Visual_Studio-F6f7f8?style=for-the-badge&logo=visual%20studio&logoColor=5C2D91">
