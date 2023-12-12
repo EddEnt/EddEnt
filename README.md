@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <img alt="MySQL Badge" src="https://img.shields.io/badge/MySQL-F6f7f8?style=for-the-badge&logo=mysql&logoColor=005C84">
+<img alt="SQLite Badge" src="https://img.shields.io/badge/SQLite-F6f7f8?style=for-the-badge&logo=sqlite&logoColor=003B57">
 <img alt="MongoDB Badge" src="https://img.shields.io/badge/MongoDB-F6f7f8?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
 
 <br>
