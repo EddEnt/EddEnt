@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## Coding Skills
 
 <img alt=".NET Badge" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white">
-<img alt="Python Badge" src="https://img.shields.io/badge/python-"
+<img alt="Python Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 <img alt="HTML Badge" src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
